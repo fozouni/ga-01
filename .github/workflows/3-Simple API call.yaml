@@ -1,9 +1,9 @@
 name: 3 - Simple API call
 
 on:
-  schedule:
-   - cron: '23 06 * * *' 
-   - cron: '30 06 * * *'
+#  schedule:
+   #- cron: '23 06 * * *' 
+   #- cron: '30 06 * * *'
   workflow_dispatch:
 
 jobs:
